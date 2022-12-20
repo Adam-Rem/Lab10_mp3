@@ -1,0 +1,13 @@
+C:\Users\adama\Source\Repos\PLayer\PLayer\bin\Debug\PLayer.exe.config
+C:\Users\adama\Source\Repos\PLayer\PLayer\bin\Debug\PLayer.exe
+C:\Users\adama\Source\Repos\PLayer\PLayer\bin\Debug\PLayer.pdb
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.csproj.AssemblyReference.cache
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.Form1.resources
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.Properties.Resources.resources
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.csproj.GenerateResource.cache
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.csproj.CoreCompileInputs.cache
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.exe
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.pdb
+C:\Users\adama\Source\Repos\PLayer\PLayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\adama\Source\Repos\PLayer\PLayer\obj\Debug\PLayer.csproj.CopyComplete
